@@ -16,13 +16,13 @@ public class Switch
                 System.out.println("King of Fruits");
                 break;
 
-            case " Apple" :
+            case "Apple" :
                 System.out.println("Red fruit");
                 break;
 
             default:
                 System.out.println("it is a fruit");
-
+                break;
         }
 
 
