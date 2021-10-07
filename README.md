@@ -1,3 +1,2 @@
 # BasicToAdvanceJava
-Data Structure and Algorithms in Java resource.
-
+Data Structure and Algorithms in Java
