@@ -1,2 +1,5 @@
 
 out/
+.idea/
+Assignments.iml
+.DS_Store
