@@ -11,7 +11,10 @@ public class FibonacciNumberUsingLoop
         Scanner scan = new Scanner(System.in);
         System.out.println("which fibonacci term you want : ");
         int n = scan.nextInt();
-
+        if(n==0)
+        {
+         b=0;
+        }
         while(n>=count)
         {
             int temp = b;
